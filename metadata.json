@@ -1,0 +1,6 @@
+{
+  "name": "NoteShare - Online Notes Sharing Platform",
+  "description": "A professional MERN stack application for sharing, liking, and commenting on educational notes (PDFs) with JWT authentication and a modern SaaS UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
